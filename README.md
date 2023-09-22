@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Mohammad<br><br>- 🔭 I’m working as AI Specialist<br>- 📚 I'm currently learning Physics Based Deep Learning<br>- ⚡ In my free time I</p>
+<p align="left">I'm Mohammad<br><br>- 🔭 I’m working as AI Specialist<br>- 📚 I'm currently learning Physics Based Deep Learning</p>
 
 ###
 
